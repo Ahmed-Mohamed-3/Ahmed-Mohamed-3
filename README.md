@@ -4,7 +4,7 @@ Junior Mobile App Developer specialized in building cross-platform mobile applic
 
 ## 🌐 Socials:
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohamed-1b43b6265)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedsalman4004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohamed-1b43b6265) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedsalman4004@gmail.com)
 
 
 # 💻 Tech Stack:
